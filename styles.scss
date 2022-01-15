@@ -37,6 +37,26 @@ body{
       }
 }
 
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+    height: 80px;
+    #logo{
+        padding-left: 1vw;
+        font-size: 30px;
+    }
+    #menu-btn{
+        padding-right: 2vw;
+
+        button{
+            background-color: transparent;
+        }
+    }
+}
+
 .openbtn {
     font-size: 20px;
     cursor: pointer;

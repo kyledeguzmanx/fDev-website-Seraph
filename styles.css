@@ -43,6 +43,37 @@ body {
   margin-left: 50px;
 }
 
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: red;
+  height: 80px;
+}
+
+nav #logo {
+  padding-left: 1vw;
+  font-size: 30px;
+}
+
+nav #menu-btn {
+  padding-right: 2vw;
+}
+
+nav #menu-btn button {
+  background-color: transparent;
+}
+
 .openbtn {
   font-size: 20px;
   cursor: pointer;
