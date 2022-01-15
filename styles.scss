@@ -31,6 +31,14 @@ body{
         transition: 0.3s;
         font-family: 'Anton', sans-serif;
         text-transform: uppercase;
+        .arrow{
+            display:none;
+        }
+        &:hover{
+            .arrow{
+                display: inline;
+            }
+        }
     }
     .closebtn {
         position: absolute;

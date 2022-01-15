@@ -36,6 +36,14 @@ body {
   text-transform: uppercase;
 }
 
+#sideMenu a .arrow {
+  display: none;
+}
+
+#sideMenu a:hover .arrow {
+  display: inline;
+}
+
 #sideMenu .closebtn {
   position: absolute;
   top: 0;
