@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Semi+Condensed:wght@100&family=Rajdhani:wght@300&display=swap');
+
 $background-color: #f5f3f4;
 html, body{
     margin:0;
@@ -51,8 +53,13 @@ nav{
     height: 80px;
     
     #logo{
-        padding-left: 1vw;
-        font-size: 30px;
+        padding-left: 5vw;
+        font-size: 45px;
+        font-family: 'Anton', sans-serif;
+        color:white;
+        text-transform: uppercase;
+        letter-spacing: 15px;
+        font-weight: 800;
     }
     #menu-btn{
         padding-right: 2vw;
@@ -70,6 +77,14 @@ nav{
     display:flex;
     flex-direction: row;
     height: 400px;
-    background-color: red;
+
+    .title{
+        width: 40%;
+        background-color: #ba181b;
+    }
+    .primary-image{
+        width: 60%;
+        background-color: blue;
+    }
 }
 
