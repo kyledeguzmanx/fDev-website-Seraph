@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Semi+Condensed:wght@100&family=Rajdhani:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Quicksand&display=swap");
 html, body {
   margin: 0;
   padding: 0;
@@ -15,8 +15,9 @@ body {
   position: fixed;
   z-index: 1;
   top: 0;
-  left: 0;
-  background-color: #111;
+  right: 0;
+  background: url(img/pawel-czerwinski-APVgVX_yDDc-unsplash.jpg);
+  background-size: cover;
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -26,23 +27,22 @@ body {
 #sideMenu a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 25px;
-  color: white;
+  font-size: 130px;
+  color: black;
   display: block;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-}
-
-#sideMenu a:hover {
-  color: #f1f1f1;
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
 }
 
 #sideMenu .closebtn {
   position: absolute;
   top: 0;
   right: 25px;
-  font-size: 36px;
+  font-size: 50px;
   margin-left: 50px;
+  color: black;
 }
 
 nav {
@@ -70,7 +70,7 @@ nav #logo {
   padding-left: 5vw;
   font-size: 45px;
   font-family: 'Anton', sans-serif;
-  color: white;
+  color: black;
   text-transform: uppercase;
   letter-spacing: 15px;
   font-weight: 800;
@@ -78,11 +78,13 @@ nav #logo {
 
 nav #menu-btn {
   padding-right: 2vw;
+  text-transform: uppercase;
 }
 
 nav #menu-btn button {
   background-color: transparent;
-  font-size: 20px;
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
   cursor: pointer;
   padding: 10px 15px;
   border: none;
@@ -96,16 +98,32 @@ nav #menu-btn button {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  height: 400px;
+  height: 80vh;
 }
 
 .banner .title {
   width: 40%;
-  background-color: #ba181b;
+  background-color: #efb19c;
+  font-size: 40px;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .banner .primary-image {
   width: 60%;
-  background-color: blue;
+  background: url(img/balenciaga1.jpeg);
+  background-position: center;
+  background-color: #c40001;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 /*# sourceMappingURL=styles.css.map */
