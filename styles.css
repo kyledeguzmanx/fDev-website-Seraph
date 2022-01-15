@@ -130,6 +130,8 @@ nav #menu-btn button {
       -ms-flex-align: center;
           align-items: center;
   font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 .banner .primary-image {
@@ -139,5 +141,26 @@ nav #menu-btn button {
   background-color: #c40001;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.content-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.content-container .left-social {
+  display: sticky;
+  width: 38%;
+  background-color: blue;
+}
+
+.content-container .right-content {
+  width: 62%;
+  background-color: orange;
 }
 /*# sourceMappingURL=styles.css.map */
