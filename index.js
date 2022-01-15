@@ -14,10 +14,11 @@ function openNav() {
 window.onscroll = function () { 
     "use strict";
     if (window.scrollY > 100 ) {
-        navbar.style.backgroundColor = "transparent";
+      navbar.style.backgroundColor = "rgba(245, 243, 244,0.5)";
     } 
     else {
-        navbar.style.backgroundColor = "rgba(245, 243, 244,0.5)";
+        navbar.style.backgroundColor = "transparent";
+        
 
     }
 };
