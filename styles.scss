@@ -142,11 +142,20 @@ nav{
     }
     .right-content{
         width: 61%;
+        margin: 9vh 15%;
+        line-height: 2.6rem;
 
         p{
             font-size: 1.3rem;
-            margin: 9vh 15%;
-            line-height: 2.6rem;
+        }
+        h2{
+            font-size: 2rem;
+            font-weight: 700;
+        }
+        img{
+            height: 80vh;
+            width: auto;
+            margin: 0 auto;
         }
     }
 }

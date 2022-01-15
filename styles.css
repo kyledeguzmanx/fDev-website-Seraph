@@ -176,11 +176,22 @@ nav #menu-btn button {
 
 .content-container .right-content {
   width: 61%;
+  margin: 9vh 15%;
+  line-height: 2.6rem;
 }
 
 .content-container .right-content p {
   font-size: 1.3rem;
-  margin: 9vh 15%;
-  line-height: 2.6rem;
+}
+
+.content-container .right-content h2 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.content-container .right-content img {
+  height: 80vh;
+  width: auto;
+  margin: 0 auto;
 }
 /*# sourceMappingURL=styles.css.map */
