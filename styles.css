@@ -155,12 +155,21 @@ nav #menu-btn button {
 
 .content-container .left-social {
   display: sticky;
-  width: 38%;
-  background-color: blue;
+  width: 39%;
+  text-align: center;
+}
+
+.content-container .left-social i {
+  margin: 25px 5px;
+  padding: 17px;
+  font-size: 15px;
+  border: solid;
+  border-color: black;
+  border-radius: 90px;
 }
 
 .content-container .right-content {
-  width: 62%;
+  width: 61%;
   background-color: orange;
 }
 /*# sourceMappingURL=styles.css.map */
