@@ -121,12 +121,15 @@ nav{
     display:flex;
     flex-direction: row;
     .left-social{
-        display: sticky;
+        position: sticky;
+        top: 0;
         width: 39%;
 
         text-align: center;
 
         i{ 
+            position: sticky;
+        top: 50vh;
             margin: 25px 5px;
             padding: 17px;
             font-size: 15px;

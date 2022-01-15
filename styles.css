@@ -154,12 +154,17 @@ nav #menu-btn button {
 }
 
 .content-container .left-social {
-  display: sticky;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
   width: 39%;
   text-align: center;
 }
 
 .content-container .left-social i {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 50vh;
   margin: 25px 5px;
   padding: 17px;
   font-size: 15px;
