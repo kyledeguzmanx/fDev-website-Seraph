@@ -4,6 +4,7 @@ This website is simply a concept website. I wanted to create something elegant, 
 Live Site: [https://kyledeguzmanx.github.io/fDev-website-Seraph/](https://kyledeguzmanx.github.io/fDev-website-Seraph/)
 ## FEATURES
 - Collapsed Side Menu
+- Navigation Bar Color Change onScroll
 
 ## TECHNOLOGY USED
 - Live Sass Compiler  
