@@ -2,7 +2,7 @@ const navbar = document.querySelector("nav");
 
 function openNav() {
     document.getElementById("sideMenu").style.width = "100%";
-    document.getElementById("main").style.display = "none";
+    document.getElementById("main").style.display = "hidden";
   }
   
   function closeNav() {
@@ -14,7 +14,7 @@ function openNav() {
 window.onscroll = function () { 
     "use strict";
     if (window.scrollY > 100 ) {
-      navbar.style.backgroundColor = "rgba(245, 243, 244,0.5)";
+      navbar.style.backgroundColor = "rgba(245, 243, 244,0.8)";
     } 
     else {
         navbar.style.backgroundColor = "transparent";
