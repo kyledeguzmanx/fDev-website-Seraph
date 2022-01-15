@@ -1,3 +1,5 @@
+const navbar = document.querySelector("nav");
+
 function openNav() {
     document.getElementById("sideMenu").style.width = "100%";
     document.getElementById("main").style.display = "none";
@@ -8,7 +10,7 @@ function openNav() {
     document.getElementById("main").style.display= "block";
   }
 
-const navbar = document.querySelector("nav");
+
 window.onscroll = function () { 
     "use strict";
     if (window.scrollY > 100 ) {
