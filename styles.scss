@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Quicksand&display=swap');
 
 $background-color: #f5f3f4;
+
 html, body{
     margin:0;
     padding:0;
@@ -60,6 +61,8 @@ nav{
     align-items: center;
     background-color: transparent;
     height: 80px;
+    max-height:80x;
+    overflow: hidden;
     
     #logo{
         padding-left: 5vw;
@@ -69,6 +72,9 @@ nav{
         text-transform: uppercase;
         letter-spacing: 15px;
         font-weight: 800;
+        #logo-img{
+            height: 45px;
+        }
     }
     #menu-btn{
         padding-right: 2vw;
