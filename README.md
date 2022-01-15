@@ -1,4 +1,9 @@
 # INTRODUCTION
+This website is simply a concept website. I wanted to create something elegant, sophisticated, and colorful. I also really wanted to learn how to create collapsable side-menus as well as change the color of the navigation bar (from transparent to colored) upon scrolling. 
+
+Live Site: [https://kyledeguzmanx.github.io/fDev-website-Seraph/](https://kyledeguzmanx.github.io/fDev-website-Seraph/)
+## FEATURES
+- Collapsed Side Menu
 
 ## TECHNOLOGY USED
 - Live Sass Compiler  
@@ -10,6 +15,10 @@
 ![SideMenu](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
 ![SideMenuHover](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
 
+## FUTURE IMPROVEMENTS  
+- Media Queries for Responsive Screen
+- Social Buttons for Sharing
+- meta elements for Sharing (aka Facebook, Twitter)
 ## CREDITS
 - [Adobe Create Cloud Express](https://www.adobe.com/express/feature/image/transparent-background)   
 - [Canva](https://www.canva.com/)
