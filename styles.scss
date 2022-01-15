@@ -139,7 +139,11 @@ nav{
     }
     .right-content{
         width: 61%;
-        background-color: orange;
 
+        p{
+            font-size: 1.5rem;
+            margin: 9vh 15%;
+            line-height: 3rem;
+        }
     }
 }

@@ -171,6 +171,11 @@ nav #menu-btn button {
 
 .content-container .right-content {
   width: 61%;
-  background-color: orange;
+}
+
+.content-container .right-content p {
+  font-size: 1.5rem;
+  margin: 9vh 15%;
+  line-height: 3rem;
 }
 /*# sourceMappingURL=styles.css.map */
