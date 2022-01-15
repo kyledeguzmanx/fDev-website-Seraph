@@ -7,3 +7,14 @@ function openNav() {
     document.getElementById("sideMenu").style.width = "0";
     document.getElementById("main").style.display= "block";
   }
+
+const navbar = document.querySelector("nav");
+window.onscroll = function () { 
+    "use strict";
+    if (window.scrollY > 100 ) {
+        navbar.style.backgroundColor = "rgba(245, 243, 244,0.5)";
+    } 
+    else {
+        navbar.style.backgroundColor = "transparent";
+    }
+};
