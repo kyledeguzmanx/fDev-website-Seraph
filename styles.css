@@ -81,4 +81,16 @@ nav #menu-btn button {
   padding: 10px 15px;
   border: none;
 }
+
+.banner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  height: 400px;
+  background-color: red;
+}
 /*# sourceMappingURL=styles.css.map */
