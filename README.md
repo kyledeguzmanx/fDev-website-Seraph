@@ -12,8 +12,8 @@ Live Site: [https://kyledeguzmanx.github.io/fDev-website-Seraph/](https://kylede
 ## SCREENSHOTS
 ### PHASE 1
 ![Homepage](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
-![SideMenu](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
-![SideMenuHover](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
+![SideMenu](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen2.png)
+![SideMenuHover](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen3.png)
 
 ## FUTURE IMPROVEMENTS  
 - Media Queries for Responsive Screen
