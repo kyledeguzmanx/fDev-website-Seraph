@@ -4,6 +4,11 @@
 - Live Sass Compiler  
 - SASS  
 
+## SCREENSHOTS
+### PHASE 1
+![Homepage](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
+![SideMenu](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
+![SideMenuHover](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
 
 ## CREDITS
 - [Adobe Create Cloud Express](https://www.adobe.com/express/feature/image/transparent-background)   
