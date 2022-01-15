@@ -15,6 +15,7 @@ Live Site: [https://kyledeguzmanx.github.io/fDev-website-Seraph/](https://kylede
 ![Homepage](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen1.png)
 ![SideMenu](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen2.png)
 ![SideMenuHover](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day1Screen3.png)
+![SocialButtons](https://github.com/kyledeguzmanx/fDev-website-Seraph/blob/master/img/screenshots/Day2Screen1.png)
 
 ## FUTURE IMPROVEMENTS  
 - Media Queries for Responsive Screen
@@ -26,6 +27,6 @@ Live Site: [https://kyledeguzmanx.github.io/fDev-website-Seraph/](https://kylede
 - [Change Background-Color of nabvar on scroll](https://stackoverflow.com/questions/23706003/changing-nav-bar-color-after-scrolling)  
 - [Collapsed Side Menu](https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp) Tutorial from W3 Schools  
 - [Coolors Color Palette](https://coolors.co/palettes/trending/)  
-- Lorem Ipsum Generator by Lipsum](https://www.lipsum.com/feed/html)   
-- Menu Background Photo by [Pawel Czerwinski] (https://unsplash.com/@pawel_czerwinski)  
+- Lorem Ipsum Generator by [Lipsum](https://www.lipsum.com/feed/html)   
+- Menu Background Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)  
 - [onmouseover Event](https://www.w3schools.com/jsref/event_onmouseover.asp) Tutorial from W3 Schools   
